@@ -1,0 +1,4 @@
+syntax = "proto2";
+message A {
+    optional string hello = 1;
+}
